@@ -1,10 +1,10 @@
-# portifolio
+# Portfólio
 
-Portfolio HTML
+Portfólio: HTML & CSS
 
 ## Tarefas
 
-O controle das tarefas desse projeto será realziado no GitHub
+O controle das tarefas desse projeto será realizado no GitHub
 
 ## Ícones
 
